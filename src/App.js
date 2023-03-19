@@ -1,10 +1,11 @@
 import './App.css';
+import SingUp from './components/SignUp/SignUp';
 
 function App() {
   return (
-    <div className="App">
-     <h1 className='text-5xl'>Test</h1>
-    </div>
+    <>
+    <SingUp />
+    </>
   );
 }
 
