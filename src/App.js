@@ -4,6 +4,7 @@ import SingUp from './Components/SingUp';
 function App() {
   return (
     <>
+    <SingUp />
     </>
   );
 }
