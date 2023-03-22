@@ -1,10 +1,10 @@
 import './App.css';
-import SingUp from './components/SignUp/SignUp';
+import Navigation from './components/HomePage/Navigation/Navigation';
 
 function App() {
   return (
     <>
-    <SingUp />
+    <Navigation />
     </>
   );
 }
