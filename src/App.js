@@ -5,7 +5,6 @@ import SingUp from './components/SignUp/SignUp';
 function App() {
   return (
     <>
-    
     </>
   );
 }
