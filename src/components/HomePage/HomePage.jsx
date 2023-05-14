@@ -1,8 +1,9 @@
 import React from 'react'
+import Support from '../Support/Support'
 
 const HomePage = () => {
   return (
-    <div>HomePage</div>
+    <Support />
   )
 }
 

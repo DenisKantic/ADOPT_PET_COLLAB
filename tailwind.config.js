@@ -4,7 +4,11 @@ module.exports = {
     "./src/**/*.{js,jsx,ts,tsx}",
   ],
   theme: {
-    extend: {},
+    extend: {
+      backgroundImage: {
+        'support-pet': "url('/src/assets/pet.jpg')",
+      }
+    },
     screens: {
       '2xl': {
         'max': '1536px',
