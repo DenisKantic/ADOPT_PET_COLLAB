@@ -3,7 +3,9 @@ import Support from '../Support/Support'
 
 const HomePage = () => {
   return (
-    <Support />
+    <>
+      <Support />
+    </>
   )
 }
 
